@@ -1,0 +1,7 @@
+*.pdf
+.vscode/
+node_modules/
+*.js
+Untitled-1.ts
+lab3/1.ts
+decoratorTest.ts
